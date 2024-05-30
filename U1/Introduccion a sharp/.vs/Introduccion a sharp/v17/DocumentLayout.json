@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOSUE DAVID\\Documents\\POO\\U1\\Introduccion a sharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF65D8EC-85CA-4029-8E44-657E480DE51A}|Introduccion a sharp\\Introduccion a sharp.csproj|c:\\users\\josue david\\documents\\poo\\u1\\introduccion a sharp\\introduccion a sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF65D8EC-85CA-4029-8E44-657E480DE51A}|Introduccion a sharp\\Introduccion a sharp.csproj|solutionrelative:introduccion a sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\POO\\U1\\Introduccion a sharp\\Introduccion a sharp\\Program.cs",
+              "RelativeDocumentMoniker": "Introduccion a sharp\\Program.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\POO\\U1\\Introduccion a sharp\\Introduccion a sharp\\Program.cs",
+              "RelativeToolTip": "Introduccion a sharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:40:37.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

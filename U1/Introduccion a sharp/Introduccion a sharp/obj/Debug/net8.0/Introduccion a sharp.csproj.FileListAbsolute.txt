@@ -1,0 +1,14 @@
+C:\Users\JOSUE DAVID\Documents\POO\U1\Introduccion a sharp\Introduccion a sharp\bin\Debug\net8.0\Introduccion a sharp.exe
+C:\Users\JOSUE DAVID\Documents\POO\U1\Introduccion a sharp\Introduccion a sharp\bin\Debug\net8.0\Introduccion a sharp.deps.json
+C:\Users\JOSUE DAVID\Documents\POO\U1\Introduccion a sharp\Introduccion a sharp\bin\Debug\net8.0\Introduccion a sharp.runtimeconfig.json
+C:\Users\JOSUE DAVID\Documents\POO\U1\Introduccion a sharp\Introduccion a sharp\bin\Debug\net8.0\Introduccion a sharp.dll
+C:\Users\JOSUE DAVID\Documents\POO\U1\Introduccion a sharp\Introduccion a sharp\bin\Debug\net8.0\Introduccion a sharp.pdb
+C:\Users\JOSUE DAVID\Documents\POO\U1\Introduccion a sharp\Introduccion a sharp\obj\Debug\net8.0\Introduccion a sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOSUE DAVID\Documents\POO\U1\Introduccion a sharp\Introduccion a sharp\obj\Debug\net8.0\Introduccion a sharp.AssemblyInfoInputs.cache
+C:\Users\JOSUE DAVID\Documents\POO\U1\Introduccion a sharp\Introduccion a sharp\obj\Debug\net8.0\Introduccion a sharp.AssemblyInfo.cs
+C:\Users\JOSUE DAVID\Documents\POO\U1\Introduccion a sharp\Introduccion a sharp\obj\Debug\net8.0\Introduccion a sharp.csproj.CoreCompileInputs.cache
+C:\Users\JOSUE DAVID\Documents\POO\U1\Introduccion a sharp\Introduccion a sharp\obj\Debug\net8.0\Introduccion a sharp.dll
+C:\Users\JOSUE DAVID\Documents\POO\U1\Introduccion a sharp\Introduccion a sharp\obj\Debug\net8.0\refint\Introduccion a sharp.dll
+C:\Users\JOSUE DAVID\Documents\POO\U1\Introduccion a sharp\Introduccion a sharp\obj\Debug\net8.0\Introduccion a sharp.pdb
+C:\Users\JOSUE DAVID\Documents\POO\U1\Introduccion a sharp\Introduccion a sharp\obj\Debug\net8.0\Introduccion a sharp.genruntimeconfig.cache
+C:\Users\JOSUE DAVID\Documents\POO\U1\Introduccion a sharp\Introduccion a sharp\obj\Debug\net8.0\ref\Introduccion a sharp.dll
